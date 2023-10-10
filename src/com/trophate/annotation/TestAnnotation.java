@@ -1,4 +1,4 @@
-package crm.trophate.annotation;
+package com.trophate.annotation;
 
 import java.lang.annotation.*;
 

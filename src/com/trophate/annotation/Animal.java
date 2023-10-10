@@ -1,4 +1,4 @@
-package crm.trophate.annotation;
+package com.trophate.annotation;
 
 @TestAnnotation("这是一个类注解")
 public class Animal {
