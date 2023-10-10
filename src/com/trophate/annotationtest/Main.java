@@ -1,4 +1,4 @@
-package com.trophate.annotation;
+package com.trophate.annotationtest;
 
 import java.lang.reflect.Field;
 
